@@ -1,0 +1,14 @@
+{
+  "name": "arrowbot",
+  "version": "1.0.0",
+  "description": "A bot built for discord! with moderation commands just for you moderators ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wayvsshockGD",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
